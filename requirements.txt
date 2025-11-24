@@ -1,0 +1,8 @@
+opencv-contrib-python
+numpy
+pyautogui
+pillow
+pynput
+numba>=0.58.0
+scipy>=1.10.0
+customtkinter>=5.2.0
